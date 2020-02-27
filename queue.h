@@ -19,4 +19,4 @@ public:
   char peekRear();             //gives the element at the rear
 };
 
-#endif //QUEUE_H
+#endif //QUEUE_h
