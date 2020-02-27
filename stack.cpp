@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Stack.h"
+//lab1
 Stack::Stack(
      top=-1;
      )
