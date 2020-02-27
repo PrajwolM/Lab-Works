@@ -1,5 +1,5 @@
 #define MAX_STACK_SIZE 100
-
+//header file for stack.cpp
 class Stack{
     public:
         Stack();
