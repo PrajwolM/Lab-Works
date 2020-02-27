@@ -1,6 +1,6 @@
 #include <iostream>
 #include "queue.h"
-
+//lab1
 Queue :: Queue(){
   front = -1;
   rear = -1;
